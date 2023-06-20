@@ -1,6 +1,6 @@
-let pronoun = ["your", "my", "their"];
-let adj = ["adorable", "playful", "furry", "loyal"];
-let noun = ["puppy", "kitty", "pet", "companion"];
+let pronoun = ['the', 'our'];
+let adj = ['great', 'big'];
+let noun = ['jogger', 'racoon'];
 
 for (let i = 0; i < pronoun.length; i++) {
   for (let j = 0; j < adj.length; j++) {
